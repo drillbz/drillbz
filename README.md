@@ -1,0 +1,4 @@
+- 👋 Olá eu sou drillbz
+- 👀 Estou interessado em desenvolver minas habilidades de programação
+- 🌱 atualmente estou aprendendo pýthon
+- 😄 Pronomes: ele/dele
